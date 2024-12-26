@@ -85,7 +85,13 @@ wether-app-city {
 }
 .weather-forecast-temperatures {
   text-align: center;
+  margin-top: 10px;
   color: #f65282;
+  display: flex;
+  justify-content: center;
+}
+.weather-app-temperature {
+  padding: 0 10px;
 }
 footer {
   border-top: 1px solid #f9f7fe;
