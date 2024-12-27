@@ -75,7 +75,7 @@ wether-app-city {
 .weather-forecast {
   display: flex;
   justify-content: space-around;
-  margin-top: 30px;
+  justify-content: baseline;
 }
 .weather-forecast-date {
   text-align: center;
